@@ -5,34 +5,35 @@ Create compelling data visualizations using **Power BI** that effectively commun
 
 ##  Tools Used
 - **Power BI** – For creating interactive dashboards and reports
+  
 - **Dataset**: [Superstore.csv](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data) (sourced from Kaggle)
 
 ## Steps Followed
 To create the Power BI report dashboard, the following steps were carried out:
 
-- Data Cleaning
+- Data Cleaning: 
 Removed any duplicates and null values from the dataset to ensure data accuracy.
 
-- Corrected Data Formats
+- Corrected Data Formats: 
 Standardized column formats (e.g., date, currency, numerical fields) for consistency and correct visualization behavior.
 
-- Loaded Data into Power BI
+- Loaded Data into Power BI: 
 Imported the cleaned Superstore.csv dataset into Power BI Desktop.
 
-- Created Visualizations
+- Created Visualizations: 
 Developed a series of charts and tables to highlight key business insights:
 
    -> Pie Chart
-Used to show Sales Count by Ship Mode and Profit by Category.
+  Used to show Sales Count by Ship Mode and Profit by Category.
 
    -> Bar Chart
-Displayed Quantity by Category to highlight product distribution.
+   Displayed Quantity by Category to highlight product distribution.
 
    -> Line Chart
-Illustrated the Trend of Profit per Year to visualize business performance over time.
+   Illustrated the Trend of Profit per Year to visualize business performance over time.
 
    -> Table
-Presented a detailed view of State-wise Sales and Profit for granular insights.
+   Presented a detailed view of State-wise Sales and Profit for granular insights.
 
 
 ## Deliverables
